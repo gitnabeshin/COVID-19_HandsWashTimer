@@ -1,4 +1,4 @@
-# HandsWashTimer
+# COVID-19 HandsWashTimer
 The 20 seconds hands wash timer for protecting yourself from Covid19.
 
 ## Video
